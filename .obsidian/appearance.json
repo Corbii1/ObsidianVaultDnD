@@ -1,0 +1,11 @@
+{
+  "accentColor": "",
+  "interfaceFontFamily": "JetBrains Mono",
+  "textFontFamily": "JetBrains Mono",
+  "monospaceFontFamily": "JetBrains Mono",
+  "enabledCssSnippets": [
+    "Notebook Backgrounds",
+    "Colored Sidebar Items"
+  ],
+  "cssTheme": "Wasp"
+}

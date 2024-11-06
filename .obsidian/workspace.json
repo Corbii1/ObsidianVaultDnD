@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "557d63b1a6572333",
+    "type": "split",
+    "children": [
+      {
+        "id": "18c1efc26f412aa0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee65f6005b166c2a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c392d0c2c3a857ab",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d0794f66271c4c71",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "72de4a80a8cd4134",
+    "type": "split",
+    "children": [
+      {
+        "id": "45910067b83047ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec8463ce1722306d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled"
+            }
+          },
+          {
+            "id": "1530c1ffbf712164",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled"
+            }
+          },
+          {
+            "id": "7fdb81e8a03439a5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "858e4fee0d0b90c9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01 - Session/test.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of test"
+            }
+          },
+          {
+            "id": "6c94e1fa04d76e35",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "ag-node-list",
+              "title": "Juggl nodes"
+            }
+          },
+          {
+            "id": "d956d915ce0e131b",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "ag-style",
+              "title": "Juggl style"
+            }
+          },
+          {
+            "id": "720e993c3ac164cb",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false,
+      "templater-obsidian:Templater": false,
+      "homepage:Open homepage": false,
+      "juggl:Juggl global graph": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "fantasy-content-generator:Fantasy Generators": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "calendarium:Open Calendarium": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "720e993c3ac164cb",
+  "lastOpenFiles": [
+    "README.md",
+    "ObsidianVaultDnd",
+    "06 - Resources/Private",
+    "05 - Groups/Private",
+    "04 - People/Private",
+    "03 - Locations/Private",
+    "01 - Session/test.md",
+    "02 - Worlds/test3.md",
+    "Games Index.md",
+    "99 - Meta/Templates/World.md",
+    "02 - Worlds/test2.md",
+    "02 - Worlds/test.md",
+    "99 - Meta/Templates/Session.md",
+    "99 - Meta/Templates/Person.md",
+    "99 - Meta/Templates/Location.md",
+    "03 - Locations/Towns",
+    "03 - Locations/Places",
+    "02 - Worlds/Test.md",
+    "meetings/test.md",
+    "meetings",
+    "99 - Meta/Templates",
+    "99 - Meta",
+    "Untitled.md",
+    "Notes/Wishlist.md"
+  ]
+}
